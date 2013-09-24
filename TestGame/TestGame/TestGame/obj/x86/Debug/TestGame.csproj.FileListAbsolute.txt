@@ -1,0 +1,11 @@
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.csprojResolveAssemblyReference.cache
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\player1paddle.xnb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\player2paddle.xnb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\bottombumper.xnb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\topbumper.xnb
+C:\Users\Epoms\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\ball.xnb
